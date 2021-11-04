@@ -42,7 +42,6 @@ The figures from my notebooks are saved in the `figs` subdirectory and shown in 
 ### Analyses and Notebooks
  
 #### Annual Mean  
-[My Notebook](https://github.com/kpegion/CESMET/blob/master/src/calcEOFMCA.ipynb)
 Link to notebook and describe results
 
 #### Climatology
@@ -60,6 +59,7 @@ Link to notebook and describe results
 #### Calculate Composites
 
 Link to notebook and describe results
+[My Notebook](https://github.com/nburls/clim680-codes/blob/gh-pages/src/Composites.ipynb)
 
 ####  Calculate the Mean Difference between Composites with Significance
 
