@@ -1,0 +1,32 @@
+name: clim680-project-kpegion
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab
+  - jupyter_client
+  - nbserverproxy
+  - netcdf4
+  - metpy
+  - numpy
+  - climpred
+  - cfgrib
+  - scipy
+  - xarray
+  - dask
+  - xskillscore
+  - cartopy
+  - matplotlib
+  - tqdm
+  - ipywidgets
+  - eofs 
+  - hvplot
+  - boto3
+  - botocore
+  - xesmf
+  - esmpy<=7.1.0
+  - intake
+  - intake-esm
+  - gcsfs
+  - zarr
+
